@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Agra",
+      "desc": "Agra is a beautiful historic city famous for the Taj Mahal, one of the Seven Wonders of the World. The city offers a rich blend of Mughal architecture, vibrant markets, and a cultural atmosphere that makes it an unforgettable travel destination.",
+      "price": 30000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 2,
+      "title": "Jaipur",
+      "desc": "Jaipur, also known as the Pink City, is renowned for its majestic forts, royal palaces, and colorful streets. The city beautifully showcases Rajasthani culture, traditional crafts, and historic architecture that attracts travelers from around the world.",
+      "price": 28000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 3,
+      "title": "Delhi",
+      "desc": "Delhi is a vibrant metropolitan city filled with ancient monuments, bustling markets, and delicious food. From historical places like Red Fort and India Gate to modern cafes and malls, Delhi offers a perfect mix of old-world charm and modern lifestyle.",
+      "price": 25000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 4,
+      "title": "Mumbai",
+      "desc": "Mumbai, the city of dreams, is known for its lively beaches, luxurious nightlife, and Bollywood glamour. The city offers a fast-paced lifestyle with iconic spots like Marine Drive, Gateway of India, and a variety of cultural experiences.",
+      "price": 35000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 5,
+      "title": "Goa",
+      "desc": "Goa is a paradise for beach lovers, offering golden sands, vibrant nightlife, and peaceful sunsets. It is the perfect destination for relaxation, water sports, and experiencing a unique blend of Indian and Portuguese culture.",
+      "price": 32000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 6,
+      "title": "Kolkata",
+      "desc": "Kolkata is a culturally rich city known for its colonial architecture, artistic heritage, and mouth-watering sweets. The city has a deep literary history and offers warm hospitality along with vibrant street life.",
+      "price": 26000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 7,
+      "title": "Chennai",
+      "desc": "Chennai is a coastal city known for its beautiful beaches, ancient temples, and delicious South Indian cuisine. It blends traditional culture with modernity, offering a peaceful yet lively travel experience.",
+      "price": 27000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 8,
+      "title": "Bangalore",
+      "desc": "Bangalore, the Silicon Valley of India, is famous for its pleasant weather, modern cafes, tech parks, and green spaces. The city offers a youthful vibe with a mix of innovation, nightlife, and cultural activities.",
+      "price": 30000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 9,
+      "title": "Hyderabad",
+      "desc": "Hyderabad is a city of rich history, iconic landmarks, and delicious cuisine like the world-famous Hyderabadi Biryani. The Charminar, markets, and modern IT hubs make it a perfect blend of old and new.",
+      "price": 29000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 10,
+      "title": "Manali",
+      "desc": "Manali is a stunning hill station surrounded by snow-capped mountains, rivers, and forests. It is a popular spot for adventure activities like trekking, paragliding, and skiing while also offering peaceful nature views.",
+      "price": 33000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 11,
+      "title": "Shimla",
+      "desc": "Shimla is a charming hill destination known for its colonial architecture, cool climate, and scenic beauty. The Mall Road, viewpoints, and calm environment make it a perfect escape from city life.",
+      "price": 31000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 12,
+      "title": "Udaipur",
+      "desc": "Udaipur, the City of Lakes, is famous for its royal palaces, beautiful lakes, and romantic atmosphere. It offers a rich cultural experience with boat rides, heritage sites, and stunning sunset views.",
+      "price": 34000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 13,
+      "title": "Varanasi",
+      "desc": "Varanasi is one of the world’s oldest cities, known for its spiritual energy, Ganga ghats, and ancient temples. The city offers a magical experience with traditional rituals and riverside views.",
+      "price": 24000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 14,
+      "title": "Rishikesh",
+      "desc": "Rishikesh is a peaceful town surrounded by mountains and the River Ganga. It is the hub for yoga, meditation, river rafting, and adventure activities, offering a refreshing escape into nature.",
+      "price": 26000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 15,
+      "title": "Kerala",
+      "desc": "Kerala is known for its lush greenery, calm backwaters, and rich wildlife. It is a perfect place for relaxation, Ayurvedic treatments, and scenic boat rides among beautiful landscapes.",
+      "price": 36000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 16,
+      "title": "Pune",
+      "desc": "Pune offers a calm lifestyle with a mix of historic sites, modern cafes, and beautiful hills around the city. Its pleasant weather and youthful culture make it a popular travel destination.",
+      "price": 27000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 17,
+      "title": "Darjeeling",
+      "desc": "Darjeeling is famous for its tea gardens, scenic mountains, and the iconic toy train. The cool weather, peaceful views, and cultural charm make it a refreshing hill station getaway.",
+      "price": 32000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 18,
+      "title": "Leh Ladakh",
+      "desc": "Leh Ladakh is a stunning high-altitude destination known for its dramatic landscapes, blue lakes, and adventure routes. It is perfect for road trips, trekking, and experiencing untouched natural beauty.",
+      "price": 45000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 19,
+      "title": "Andaman",
+      "desc": "The Andaman Islands offer crystal-clear waters, white sandy beaches, and vibrant marine life. It is a peaceful tropical destination ideal for water sports, snorkeling, and relaxing by the ocean.",
+      "price": 50000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    },
+    {
+      "id": 20,
+      "title": "Mysore",
+      "desc": "Mysore is a heritage-rich city known for its grand palace, traditional culture, and clean, beautiful streets. The city offers a peaceful environment along with historic attractions and art.",
+      "price": 26000,
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada"
+    }
+  ]
+}
